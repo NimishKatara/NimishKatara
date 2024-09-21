@@ -1,16 +1,17 @@
-## Hi there 👋
+## ✌️About Me:
 
-<!--
-**NimishKatara/NimishKatara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯**I’m currently working on:**  
+Helping websites function better and creating tier-1 architectures  
 
-Here are some ideas to get you started:
+🔭**I’m looking to collaborate on:**  
+Fullstack development and machine learning projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬**Ask me about:**  
+Javascript, React, Nodejs, Expressjs, C++, SQL and general development questions  
+
+😈**Fun fact:**  
+I'm not a software engineer yet  
+
+
+  
+
