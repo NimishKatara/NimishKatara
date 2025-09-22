@@ -1,17 +1,16 @@
 ## ✌️About Me:
 
 🎯**I’m currently working on:**  
-Helping websites function better and creating tier-1 architectures  
+Building machine learning models and quantitative trading strategies
 
 🔭**I’m looking to collaborate on:**  
-Fullstack development and machine learning projects  
+Machine learning, data science, and algorithmic/quant research projects
 
 💬**Ask me about:**  
-Javascript, React, Nodejs, Expressjs, C++, SQL and general development questions  
+Python, C++, data analysis, finance, statistical modeling, and machine learning workflows 
 
 😈**Fun fact:**  
-I'm not a software engineer yet  
-
+I Love Derivatives
 
   
 
